@@ -1,0 +1,2 @@
+# GUI-analysis_Windows_7_clone
+ The primary objective of this project is to analyze Graphical User Interface (GUI) by cloning the desktop of Windows 7 &amp; making a Text Editor, Calculator, and Analog-clock widget using Web Technologies. HTML5, CSS3, Javascript, and its frameworks were used in the creation of windows like GUI. This project focuses on the benefits of GUI, which is user-friendly and reliable that has multi-functioning applications. In the future, we can integrate CLI and GUI and solve real-world problems.
